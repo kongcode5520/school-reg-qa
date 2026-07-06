@@ -1,0 +1,7 @@
+{
+  "api_key": "",
+  "base_url": "https://api.deepseek.com",
+  "model_name": "deepseek-chat",
+  "api_enabled": false,
+  "top_k": 5
+}
